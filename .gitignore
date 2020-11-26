@@ -1,0 +1,8 @@
+BUILD
+.mbed
+Base64
+DS1820
+mbed-http
+mbed-os
+picojson
+stm32-uid
